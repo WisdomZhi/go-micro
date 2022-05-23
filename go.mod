@@ -42,7 +42,7 @@ require (
 	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/kr/pretty v0.1.0
 	github.com/lib/pq v1.3.0
-	github.com/lucas-clemente/quic-go v0.26.0
+	github.com/lucas-clemente/quic-go v0.27.0
 	github.com/mholt/certmagic v0.9.3
 	github.com/micro/cli/v2 v2.1.2
 	github.com/miekg/dns v1.1.27
